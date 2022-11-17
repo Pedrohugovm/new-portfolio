@@ -1,0 +1,105 @@
+*{
+    width: 100%;
+    word-wrap: break-word
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #E5E5E5;
+}
+
+.text-main {
+    color: #445964;
+    font-style: oblique;
+}
+
+.text-orange {
+    color: #FF715B;
+}
+
+.flags{
+    width: auto;
+    font-size: 18px;
+}
+
+.header {
+    padding: 30px;
+    text-align: center;
+    color: white;
+    font-size: 30px;
+}
+
+.header-title {
+    font-size: 24px;
+    color: #445964;
+    font-weight: 900;
+    width: auto;
+    line-break: unset;
+    white-space: nowrap
+}
+
+.first{
+    width: 100%;
+    height: 700px;
+}
+
+.icon{
+    color: #445964;
+    width: auto;
+}
+
+.social{
+    color:#445964;
+    width: 30px;
+    z-index: 1;
+}
+
+.social-bottom{
+    margin-left: 10%;
+}
+
+.header-items {
+    font-size: 20px;
+    font-weight: 400;
+    color:#445964;
+}
+
+.main-title {
+    margin-top: 0px;
+}
+
+
+@media only screen and (min-width: 768px) {
+    .principal{
+        top: 90px;
+    }
+}
+
+@media only screen and (min-width: 1400px) {
+    .principal{
+        top: 180px;
+    }
+}
+
+.principal{
+    height: fit-content;
+}
+
+#title1{
+    margin-top: 50px;
+    font-size: 48px;
+    color: #445964;
+    font-weight: 900;
+}
+
+#title2{
+    font-size: 36px;
+    color: #FF715B;
+    font-weight: 700;
+}
+
+#subtitle{
+    font-size: 24px;
+    color: #445964;
+    font-weight: 400;
+}

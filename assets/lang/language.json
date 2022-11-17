@@ -1,0 +1,25 @@
+{
+    "config": {
+      "default": "en"
+    },
+    "language": {
+      "en": {
+        "#about": "about",
+        "#projects": "projects",
+        "#experiences": "experiences",
+        "#contact": "contact",
+        "#title1": "Hi, I'm Pedro Barbosa",
+        "#title2": "FullStack Web Developer",
+        "#subtitle": "I’m a full time learner and addicted to<br>the growth mentality.<bR>I built this portfolio from scratch,<br>hope you like it."
+      },
+      "br": {
+        "#about": "sobre",
+        "#projects": "projetos",
+        "#experiences": "experiências",
+        "#contact": "contato",
+        "#title1": "Olá, meu nome é Pedro Barbosa",
+        "#title2": "Desenvolvedor Web FullStack",
+        "#subtitle": "Eu sou um eterno aprendiz e sou viciado<br>na mentalidade de crescimento.<br>Construí este portfólio do zero,<br>espero que você goste."
+      }
+    }
+  }
