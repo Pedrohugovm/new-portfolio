@@ -1,6 +1,7 @@
 *{
     width: 100%;
-    word-wrap: break-word
+    word-wrap: break-word;
+    padding-left: 3px;
 }
 
 body {
@@ -41,6 +42,7 @@ body {
 .first{
     width: 100%;
     height: 700px;
+    box-sizing: border-box;
 }
 
 .icon{
@@ -55,7 +57,8 @@ body {
 }
 
 .social-bottom{
-    margin-left: 10%;
+    margin-left: 200px;
+    width: fit-content !important;
 }
 
 .header-items {
@@ -103,3 +106,172 @@ body {
     color: #445964;
     font-weight: 400;
 }
+
+#second {
+    margin-top: 300px;
+}
+
+#third, #fourth, #fifth {
+    margin-top: 250px;
+}
+
+#section2-title {
+    font-size: 64px;
+    font-weight: 700;
+}
+
+.btn{
+    width: min-content;
+}
+
+#learning{
+    font-size: 24px;
+}
+
+.btn-outline-tech{
+    border: 1px solid black !important;
+    border-color: black;
+    color: black;
+    cursor: default !important;
+}
+
+.btn-outline-tech:hover {
+    background: #e7e7e7 !important;
+    cursor: default !important;
+}
+
+.btn-view{
+    background: #FF715B !important;
+    color: white !important;
+    font-size: 24px !important;
+    cursor: default !important;
+    border-radius: 20px !important;
+    display: inline-block;
+    padding: 20px 30px;
+    border-radius: 5px;
+    box-shadow: 0  17px 10px -10px rgba(0, 0, 0, 0.4);
+    transition: all ease-in-out 300ms;
+}
+
+.btn-view:hover{
+    box-shadow: 0  37px 20px -20px rgba(0, 0, 0, 0.2);
+    transform: translate(0, -2px);
+    cursor: pointer !important;
+}
+
+#aboutme{
+    font-size: 22px;
+    font-style: initial;
+}
+
+#myprojects{
+    font-size: 56px;
+    font-style: normal;
+    font-weight: 700;
+}
+
+#project1{
+    font-size: 38px;
+    color: black;
+    font-style: normal;
+    font-weight: 900;
+}
+
+#aboutproject1{
+    font-size: 22px;
+    font-style: initial;
+}
+
+.imgproject1{
+    box-shadow: 0  37px 20px -20px rgba(0, 0, 0, 0.2);
+}
+
+#myjourney{
+    font-size: 24px;
+    font-style: initial;
+    font-weight: 500;
+}
+
+#jobexperiences{
+    font-size: 36px;
+    font-style: initial;
+    font-weight: 900;
+}
+
+#jobexperiences2{
+    font-size: 36px;
+    margin-left: 10px !important;
+    color: black;
+    font-style: initial;
+    font-weight: 900;
+}
+
+.card-job1{
+    border-radius: 20px;
+    text-align: center;
+    color: white;
+    background: #263138;
+    padding: 10px;
+    min-height: 300px;
+}
+
+.card-job2{
+    border-radius: 20px;
+    text-align: center;
+    color: white;
+    background: #445964;
+    padding: 10px;
+    min-height: 300px;
+}
+
+#job1, #job2, #job3{
+    font-size: 20px;
+    font-weight: 700;
+}
+
+#textdays, #textdays2, #days{
+    font-size: 18px;
+    font-style: italic;
+    font-weight: 500;
+}
+
+#chat{
+    font-size: 48px;
+    font-weight: 700;
+    color: #445964;
+}
+
+#email{
+    font-size: 36px;
+    font-weight: 600;
+    color: #FF715B;
+    margin-bottom: 50px;
+}
+
+#quote{
+    font-size: 22px;
+    font-weight: 700;
+    color: #445964;
+}
+
+#quoteby{
+    font-size: 30px;
+    font-weight: 800;
+    color: black;
+}
+
+.card-marcus{
+    border-radius: 10px;
+    border: 1px solid black;
+    margin-top: 25px;
+}
+
+.footer {
+    left: 0;
+    margin-top: 100px;
+    border-top: 1px solid black;
+    bottom: 0;
+    width: 100%;
+    color: #263138;
+    text-align: center;
+  }
