@@ -1,12 +1,12 @@
 *{
     width: 100%;
-    word-wrap: break-word;
+    word-wrap: unset;
     padding-left: 3px;
 }
 
 body {
     font-family: 'Roboto', sans-serif;
-    background-color: #E5E5E5;
+    background-color: #ece5e5 !important;
 }
 
 .text-main {
@@ -131,12 +131,13 @@ body {
 .btn-outline-tech{
     border: 1px solid black !important;
     border-color: black;
+    background-color: white !important;
     color: black;
     cursor: default !important;
 }
 
 .btn-outline-tech:hover {
-    background: #e7e7e7 !important;
+    background: white !important;
     cursor: default !important;
 }
 
@@ -260,10 +261,12 @@ body {
     color: black;
 }
 
-.card-marcus{
-    border-radius: 10px;
+.card-img{
     border: 1px solid black;
     margin-top: 25px;
+    padding: 10px;
+    border-radius: 10px !important;
+    background-color: white;
 }
 
 .footer {

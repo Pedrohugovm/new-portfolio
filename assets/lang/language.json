@@ -13,8 +13,6 @@
         "#subtitle": "I’m a full time learner and addicted to<br>the growth mentality.<bR>I built this portfolio from scratch,<br>hope you like it.",
         "#section2-title": "About me",
         "#learning": "Learning:",
-        "#short": "Short",
-        "#long": "Long",
         "#aboutme": "When I was a child, I loved playing with my computer. In 2018, i entered in college and discovered my love for coding.<br>On december, 2022 I completed my Bachelor's degree of Information Systems and was already working as a developer.<br>As a web developer, I enjoy building new stuff and exploring different roles or technologies. My goal is to learn new things and improve what I already know, always challenging myself and tracing new objectives.",
         "#myprojects": "My Projects",
         "#project1": "Machine Management",
@@ -33,7 +31,7 @@
         "#textdays2": "days as a developer.",
         "#chat": "It’s nice to meet you.<br>Let’s have a chat",
         "#email": "pedrohugovm@gmail.com",
-        "#quote": "“The happiness of your life depends upon the quality of your thoughts.”",
+        "#quote": "“The soul becomes dyed with the colour of its thoughts.”",
         "#quoteby": "~Marcus Aurelius"
       },
       "br": {
@@ -46,8 +44,6 @@
         "#subtitle": "Eu sou um eterno aprendiz e sou viciado<br>na mentalidade de crescimento.<br>Construí este portfólio do zero,<br>espero que você goste.",
         "#section2-title": "Sobre",
         "#learning": "Aprendendo:",
-        "#short": "Curta",
-        "#long": "Longa",
         "#aboutme": "Na minha infância, eu amava brincar no computador. Em 2018, finalmente entrei na faculdade e descobri minha paixão por programação.<br>Em dezembro de 2022 completei meu bacharelado em Sistemas de Informação.<br>Como um desenvolvedor web, gosto de criar novas soluções e explorar diferentes funções ou tecnologias. Meu objetivo é me manter aprendendo e melhorando o que já sei, sempre me desafiando e traçando novos objetivos.",
         "#myprojects": "Meus Projetos",
         "#project1": "Controle de Máquinas",
@@ -66,7 +62,7 @@
         "#textdays2": " dias como um desenvolvedor.",
         "#chat": "Prazer em te conhecer.<br>Vamos conversar",
         "#email": "pedrohugovm@gmail.com",
-        "#quote": "“A felicidade da vida depende da qualidade de nossos pensamentos.”",
+        "#quote": "“Sua alma assume a cor dos seus pensamentos.”",
         "#quoteby": "~Marco Aurélio"
       }
     }
