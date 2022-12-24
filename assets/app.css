@@ -1,12 +1,12 @@
 *{
     width: 100%;
     word-wrap: unset;
-    padding-left: 3px;
+    padding-left: 6px;
 }
 
 body {
     font-family: 'Roboto', sans-serif;
-    background-color: #ece5e5 !important;
+    background-color: #DDDDDD !important;
 }
 
 .text-main {
@@ -16,6 +16,14 @@ body {
 
 .text-orange {
     color: #FF715B;
+}
+
+.w-100 {
+    width: 100%;
+}
+
+li {
+    width: auto;
 }
 
 .flags{
@@ -160,7 +168,7 @@ body {
     cursor: pointer !important;
 }
 
-#aboutme{
+#aboutme, #aboutmelong{
     font-size: 22px;
     font-style: initial;
 }
