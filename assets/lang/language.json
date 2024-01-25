@@ -10,7 +10,7 @@
         "#contact": "contact",
         "#title1": "Hi, I'm Pedro Barbosa",
         "#title2": "FullStack Web Developer",
-        "#subtitle": "I love to create and develop.<br>Currently working with Laravel for my projects.<bR>I built this portfolio from scratch,<br>hope you like it.",
+        "#subtitle": "I built this portfolio from scratch,<br>hope you like it.<br>Currently working with Laravel and VueJS.",
         "#section2-title": "About me",
         "#learning": "Learning:",
         "#short": "Short",
@@ -27,15 +27,14 @@
         "#job1": "Development Internship",
         "#job2": "Junior Web Developer",
         "#job3": "Junior Web Developer",
+        "#job4": "Junior Fullstack Developer",
         "#aboutjob1": "Planning, maintenance, training and development of systems<br>created for use by the different sectors of Volta Redonda city prefecture,<br>configuration of systems on servers, answering demands opened<br>by users.",
         "#aboutjob2": "Advice, planning, development and maintenance of the systems of the city prefecture of<br>Volta Redonda, meeting internal and external demands to the sector.<br>Creation of APIs and support in the use of the systems<br>by the public servants of the city hall.",
         "#aboutjob3": "System maintenance and development in Wordpress, fulfillment of<br>internal demands and direct user support. Planning, development<br>and maintenance of projects in Laravel, consuming federal government<br>APIs, updating, automating and optimizing all services offered by<br>the company. Development guided by a project manager with agile methodologies<br>and interface designed by designers. Creation of pages andportals for<br>large companies. Creation of dashboards (data extraction, transformation and loading)<br>using the Power BI tool for business analysis of contracting companies.<br>Development of automated tests using Selenium to<br>ensure the quality of project flows.",
+        "#aboutjob4": "Development, planning, and maintenance of on-demand systems for SENAI regional and national departments, meeting the demands of external and internal users. Creation and consumption of APIs and microservices between the company's systems and external systems. Development of tests to ensure the software quality",
         "#textdays": "That means that I currently have",
         "#textdays2": "days as a developer.",
-        "#chat": "It’s nice to meet you.<br>Let’s have a chat",
-        "#email": "pedrohugovm@gmail.com",
-        "#quote": "“The soul becomes dyed with the colour of its thoughts.”",
-        "#quoteby": "~Marcus Aurelius"
+        "#chat": "It’s nice to meet you.<br>Let’s have a chat"
       },
       "br": {
         "#about": "sobre",
@@ -44,7 +43,7 @@
         "#contact": "contato",
         "#title1": "Olá, meu nome é Pedro Barbosa",
         "#title2": "Desenvolvedor Web FullStack",
-        "#subtitle": "Eu amo criar e desenvolver.<br>Trabalho atualmente com Laravel em meus projetos.<br>Construí este portfólio do zero,<br>espero que você goste.",
+        "#subtitle": "Construí este portfólio do zero,<br>espero que você goste.<br>Trabalho atualmente com Laravel e VueJS.",
         "#section2-title": "Sobre",
         "#learning": "Aprendendo:",
         "#short": "Curta",
@@ -61,15 +60,14 @@
         "#job1": "Estagiário de Desenvolvimento",
         "#job2": "Desenvolvedor Web Jr.",
         "#job3": "Desenvolvedor Web Jr.",
+        "#job4": "Desenvolvedor Fullstack Jr.",
         "#aboutjob1": "Planejamento, manutenção, treinamento e desenvolvimento de sistemas<br>criados para uso dos diversos setores da prefeitura de Volta Redonda,<br>configuração de sistemas em servidores, atendimento de demandas abertas<br>pelos usuários.",
         "#aboutjob2": "Assessoria, planejamneto, desenvolvimento e manutenção dos sistemas da prefeitura de<br>Volta Redonda, atendimento de demandas internas e externas ao setor.<br>Criação de API’s e suporte na utilização dos sistemas<br>por parte dos funcionários públicos da prefeitura.",
         "#aboutjob3": "Manutenção e desenvolvimento de sistema em Wordpress, atendimento de demandas internas e suporte direto ao usuário. Planejamento, desenvolvimento e manutenção de projetos em Laravel, consumindo APIs do governo federal, atualizando, automatizando e otimizando todos os serviços oferecidos pela empresa. Desenvolvimento orientado por gestor de projetos com metodologias ágeis e interface desenhada por designers. Criação de páginas e portais para empresas de grande porte. Criação de dashboards (extração, transformação e carregamento de dados) utilizando a ferramenta Power BI para análise de negócios das empresas contratantes. Desenvolvimento de testes automatizados utilizando o Selenium para garantir a qualidade dos fluxos dos projetos.",
+        "#aboutjob4": "Desenvolvimento, planejamento e manutenção de sistemas sob demanda dos departamentos regionais e nacionais do SENAI, atendimento de demandas dos usuários externos e internos. Criação e consumo de APIs e microsserviços entre os sistemas da empresa e externos. Desenvolvimento de testes para assegurar a qualidade de software",
         "#textdays": "Isso significa que tenho atualmente ",
         "#textdays2": " dias como um desenvolvedor.",
-        "#chat": "Prazer em te conhecer.<br>Vamos conversar",
-        "#email": "pedrohugovm@gmail.com",
-        "#quote": "“Sua alma assume a cor dos seus pensamentos.”",
-        "#quoteby": "~Marco Aurélio"
+        "#chat": "Prazer em te conhecer.<br>Vamos conversar"
       }
     }
   }
